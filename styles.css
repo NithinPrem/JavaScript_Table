@@ -1,0 +1,12 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Ubuntu", sans-serif;
+}
+table,
+th,
+td {
+	border: 4px solid rgb(0, 0, 0);
+	font-weight: bold;
+}
